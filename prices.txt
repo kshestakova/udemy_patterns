@@ -1,0 +1,8 @@
+Avocado
+60
+Mango
+80
+Pineapple
+100
+Watermelon
+75
