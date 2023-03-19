@@ -1,0 +1,1 @@
+g++ .\pimpl_concept\main.cpp .\pimpl_concept\person.cpp -o pimpl.exe
